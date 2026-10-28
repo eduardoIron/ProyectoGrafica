@@ -1,0 +1,925 @@
+Folder PATH listing for volume OS
+Volume serial number is AAD6-9D86
+C:.
+¦   estructura.txt
+¦   README.md
+¦   
++---codigo
+¦   ¦   .gitignore
+¦   ¦   LabGrafica_SMJE.sln
+¦   ¦   
+¦   +---Debug
+¦   ¦       LabGrafica_SMJE.pdb
+¦   ¦       
+¦   +---LabGrafica_SMJE
+¦   ¦   ¦   Camera.h
+¦   ¦   ¦   Carga de Modelos.cpp
+¦   ¦   ¦   glew32.dll
+¦   ¦   ¦   LabGrafica_SMJE.vcxproj
+¦   ¦   ¦   LabGrafica_SMJE.vcxproj.filters
+¦   ¦   ¦   LabGrafica_SMJE.vcxproj.user
+¦   ¦   ¦   Main.cpp
+¦   ¦   ¦   Main_Dibujo2D.cpp
+¦   ¦   ¦   Main_Modelado.cpp
+¦   ¦   ¦   Main_P3.cpp
+¦   ¦   ¦   Mesh.h
+¦   ¦   ¦   Model.h
+¦   ¦   ¦   Modelado_Jerarquico.cpp
+¦   ¦   ¦   Shader.h
+¦   ¦   ¦   stb_image.cpp
+¦   ¦   ¦   stb_image.h
+¦   ¦   ¦   Texturizado.cpp
+¦   ¦   ¦   
+¦   ¦   +---Debug
+¦   ¦   ¦   ¦   LabGrafica_SMJE.log
+¦   ¦   ¦   ¦   Texturizado.obj
+¦   ¦   ¦   ¦   vc143.idb
+¦   ¦   ¦   ¦   vc143.pdb
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---LabGrafica_SMJE.tlog
+¦   ¦   ¦           CL.command.1.tlog
+¦   ¦   ¦           CL.read.1.tlog
+¦   ¦   ¦           CL.write.1.tlog
+¦   ¦   ¦           LabGrafica_SMJE.lastbuildstate
+¦   ¦   ¦           link-cvtres.read.1.tlog
+¦   ¦   ¦           link-cvtres.write.1.tlog
+¦   ¦   ¦           link-rc.read.1.tlog
+¦   ¦   ¦           link-rc.write.1.tlog
+¦   ¦   ¦           link.command.1.tlog
+¦   ¦   ¦           link.read.1.tlog
+¦   ¦   ¦           link.write.1.tlog
+¦   ¦   ¦           unsuccessfulbuild
+¦   ¦   ¦           
+¦   ¦   +---External Libraries
+¦   ¦   ¦   +---assimp
+¦   ¦   ¦   ¦   ¦   config.h
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---include
+¦   ¦   ¦   ¦   ¦   +---assimp
+¦   ¦   ¦   ¦   ¦       ¦   .editorconfig
+¦   ¦   ¦   ¦   ¦       ¦   ai_assert.h
+¦   ¦   ¦   ¦   ¦       ¦   anim.h
+¦   ¦   ¦   ¦   ¦       ¦   camera.h
+¦   ¦   ¦   ¦   ¦       ¦   cexport.h
+¦   ¦   ¦   ¦   ¦       ¦   cfileio.h
+¦   ¦   ¦   ¦   ¦       ¦   cimport.h
+¦   ¦   ¦   ¦   ¦       ¦   color4.h
+¦   ¦   ¦   ¦   ¦       ¦   color4.inl
+¦   ¦   ¦   ¦   ¦       ¦   config.h
+¦   ¦   ¦   ¦   ¦       ¦   config.h.in
+¦   ¦   ¦   ¦   ¦       ¦   DefaultIOStream.h
+¦   ¦   ¦   ¦   ¦       ¦   DefaultIOSystem.h
+¦   ¦   ¦   ¦   ¦       ¦   DefaultLogger.hpp
+¦   ¦   ¦   ¦   ¦       ¦   Defines.h
+¦   ¦   ¦   ¦   ¦       ¦   defs.h
+¦   ¦   ¦   ¦   ¦       ¦   Exporter.hpp
+¦   ¦   ¦   ¦   ¦       ¦   Importer.hpp
+¦   ¦   ¦   ¦   ¦       ¦   importerdesc.h
+¦   ¦   ¦   ¦   ¦       ¦   IOStream.hpp
+¦   ¦   ¦   ¦   ¦       ¦   IOSystem.hpp
+¦   ¦   ¦   ¦   ¦       ¦   light.h
+¦   ¦   ¦   ¦   ¦       ¦   Logger.hpp
+¦   ¦   ¦   ¦   ¦       ¦   LogStream.hpp
+¦   ¦   ¦   ¦   ¦       ¦   material.h
+¦   ¦   ¦   ¦   ¦       ¦   material.inl
+¦   ¦   ¦   ¦   ¦       ¦   matrix3x3.h
+¦   ¦   ¦   ¦   ¦       ¦   matrix3x3.inl
+¦   ¦   ¦   ¦   ¦       ¦   matrix4x4.h
+¦   ¦   ¦   ¦   ¦       ¦   matrix4x4.inl
+¦   ¦   ¦   ¦   ¦       ¦   mesh.h
+¦   ¦   ¦   ¦   ¦       ¦   metadata.h
+¦   ¦   ¦   ¦   ¦       ¦   NullLogger.hpp
+¦   ¦   ¦   ¦   ¦       ¦   postprocess.h
+¦   ¦   ¦   ¦   ¦       ¦   ProgressHandler.hpp
+¦   ¦   ¦   ¦   ¦       ¦   quaternion.h
+¦   ¦   ¦   ¦   ¦       ¦   quaternion.inl
+¦   ¦   ¦   ¦   ¦       ¦   scene.h
+¦   ¦   ¦   ¦   ¦       ¦   SceneCombiner.h
+¦   ¦   ¦   ¦   ¦       ¦   texture.h
+¦   ¦   ¦   ¦   ¦       ¦   types.h
+¦   ¦   ¦   ¦   ¦       ¦   vector2.h
+¦   ¦   ¦   ¦   ¦       ¦   vector2.inl
+¦   ¦   ¦   ¦   ¦       ¦   vector3.h
+¦   ¦   ¦   ¦   ¦       ¦   vector3.inl
+¦   ¦   ¦   ¦   ¦       ¦   version.h
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---Compiler
+¦   ¦   ¦   ¦   ¦       ¦       poppack1.h
+¦   ¦   ¦   ¦   ¦       ¦       pstdint.h
+¦   ¦   ¦   ¦   ¦       ¦       pushpack1.h
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---port
+¦   ¦   ¦   ¦   ¦           +---AndroidJNI
+¦   ¦   ¦   ¦   ¦                   AndroidJNIIOSystem.h
+¦   ¦   ¦   ¦   ¦                   
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦           assimp-vc140-mt.dll
+¦   ¦   ¦   ¦           assimp-vc140-mt.exp
+¦   ¦   ¦   ¦           assimp-vc140-mt.ilk
+¦   ¦   ¦   ¦           assimp-vc140-mt.lib
+¦   ¦   ¦   ¦           assimp-vc140-mt.pdb
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---GLEW
+¦   ¦   ¦   ¦   ¦   LICENSE.txt
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---bin
+¦   ¦   ¦   ¦   ¦   +---Release
+¦   ¦   ¦   ¦   ¦       +---Win32
+¦   ¦   ¦   ¦   ¦       ¦       glew32.dll
+¦   ¦   ¦   ¦   ¦       ¦       glewinfo.exe
+¦   ¦   ¦   ¦   ¦       ¦       visualinfo.exe
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---x64
+¦   ¦   ¦   ¦   ¦               glew32.dll
+¦   ¦   ¦   ¦   ¦               glewinfo.exe
+¦   ¦   ¦   ¦   ¦               visualinfo.exe
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---doc
+¦   ¦   ¦   ¦   ¦       advanced.html
+¦   ¦   ¦   ¦   ¦       basic.html
+¦   ¦   ¦   ¦   ¦       build.html
+¦   ¦   ¦   ¦   ¦       credits.html
+¦   ¦   ¦   ¦   ¦       eglew.html
+¦   ¦   ¦   ¦   ¦       github.png
+¦   ¦   ¦   ¦   ¦       glew.css
+¦   ¦   ¦   ¦   ¦       glew.html
+¦   ¦   ¦   ¦   ¦       glew.png
+¦   ¦   ¦   ¦   ¦       glew.txt
+¦   ¦   ¦   ¦   ¦       glxew.html
+¦   ¦   ¦   ¦   ¦       gpl.txt
+¦   ¦   ¦   ¦   ¦       index.html
+¦   ¦   ¦   ¦   ¦       install.html
+¦   ¦   ¦   ¦   ¦       khronos.txt
+¦   ¦   ¦   ¦   ¦       log.html
+¦   ¦   ¦   ¦   ¦       mesa.txt
+¦   ¦   ¦   ¦   ¦       new.png
+¦   ¦   ¦   ¦   ¦       ogl_sm.jpg
+¦   ¦   ¦   ¦   ¦       wglew.html
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---include
+¦   ¦   ¦   ¦   ¦   +---GL
+¦   ¦   ¦   ¦   ¦           eglew.h
+¦   ¦   ¦   ¦   ¦           glew.h
+¦   ¦   ¦   ¦   ¦           glxew.h
+¦   ¦   ¦   ¦   ¦           wglew.h
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦       +---Release
+¦   ¦   ¦   ¦           +---Win32
+¦   ¦   ¦   ¦           ¦       glew32.lib
+¦   ¦   ¦   ¦           ¦       glew32s.lib
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---x64
+¦   ¦   ¦   ¦                   glew32.lib
+¦   ¦   ¦   ¦                   glew32s.lib
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---GLFW
+¦   ¦   ¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---docs
+¦   ¦   ¦   ¦   ¦   +---html
+¦   ¦   ¦   ¦   ¦       ¦   bc_s.png
+¦   ¦   ¦   ¦   ¦       ¦   bc_sd.png
+¦   ¦   ¦   ¦   ¦       ¦   build_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   build_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   closed.png
+¦   ¦   ¦   ¦   ¦       ¦   compat_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   compat_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   compile_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   compile_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   context_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   context_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   deprecated.html
+¦   ¦   ¦   ¦   ¦       ¦   dir_15afb161a0e1f5f893601afd5962ccc5.html
+¦   ¦   ¦   ¦   ¦       ¦   dir_b742373fb28a99a8e4741e8d669ad708.html
+¦   ¦   ¦   ¦   ¦       ¦   dir_d89c5eeddaae7aa4b30c82958ee5b5b9.html
+¦   ¦   ¦   ¦   ¦       ¦   dir_e77f5335ecdbba0ef0fd3d59992dd9ea.html
+¦   ¦   ¦   ¦   ¦       ¦   doc.svg
+¦   ¦   ¦   ¦   ¦       ¦   docd.svg
+¦   ¦   ¦   ¦   ¦       ¦   doxygen.css
+¦   ¦   ¦   ¦   ¦       ¦   doxygen.svg
+¦   ¦   ¦   ¦   ¦       ¦   dynsections.js
+¦   ¦   ¦   ¦   ¦       ¦   extra.css
+¦   ¦   ¦   ¦   ¦       ¦   files.html
+¦   ¦   ¦   ¦   ¦       ¦   folderclosed.svg
+¦   ¦   ¦   ¦   ¦       ¦   folderclosedd.svg
+¦   ¦   ¦   ¦   ¦       ¦   folderopen.svg
+¦   ¦   ¦   ¦   ¦       ¦   folderopend.svg
+¦   ¦   ¦   ¦   ¦       ¦   glfw3native_8h.html
+¦   ¦   ¦   ¦   ¦       ¦   glfw3native_8h_source.html
+¦   ¦   ¦   ¦   ¦       ¦   glfw3_8h.html
+¦   ¦   ¦   ¦   ¦       ¦   glfw3_8h_source.html
+¦   ¦   ¦   ¦   ¦       ¦   group__buttons.html
+¦   ¦   ¦   ¦   ¦       ¦   group__context.html
+¦   ¦   ¦   ¦   ¦       ¦   group__errors.html
+¦   ¦   ¦   ¦   ¦       ¦   group__gamepad__axes.html
+¦   ¦   ¦   ¦   ¦       ¦   group__gamepad__buttons.html
+¦   ¦   ¦   ¦   ¦       ¦   group__hat__state.html
+¦   ¦   ¦   ¦   ¦       ¦   group__init.html
+¦   ¦   ¦   ¦   ¦       ¦   group__input.html
+¦   ¦   ¦   ¦   ¦       ¦   group__joysticks.html
+¦   ¦   ¦   ¦   ¦       ¦   group__keys.html
+¦   ¦   ¦   ¦   ¦       ¦   group__mods.html
+¦   ¦   ¦   ¦   ¦       ¦   group__monitor.html
+¦   ¦   ¦   ¦   ¦       ¦   group__native.html
+¦   ¦   ¦   ¦   ¦       ¦   group__shapes.html
+¦   ¦   ¦   ¦   ¦       ¦   group__vulkan.html
+¦   ¦   ¦   ¦   ¦       ¦   group__window.html
+¦   ¦   ¦   ¦   ¦       ¦   index.html
+¦   ¦   ¦   ¦   ¦       ¦   input_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   input_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   internals_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   internal_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   intro_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   intro_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   jquery.js
+¦   ¦   ¦   ¦   ¦       ¦   main_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   menu.js
+¦   ¦   ¦   ¦   ¦       ¦   menudata.js
+¦   ¦   ¦   ¦   ¦       ¦   minus.svg
+¦   ¦   ¦   ¦   ¦       ¦   minusd.svg
+¦   ¦   ¦   ¦   ¦       ¦   monitor_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   monitor_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   moving_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   moving_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   nav_f.png
+¦   ¦   ¦   ¦   ¦       ¦   nav_fd.png
+¦   ¦   ¦   ¦   ¦       ¦   nav_g.png
+¦   ¦   ¦   ¦   ¦       ¦   nav_h.png
+¦   ¦   ¦   ¦   ¦       ¦   nav_hd.png
+¦   ¦   ¦   ¦   ¦       ¦   news.html
+¦   ¦   ¦   ¦   ¦       ¦   news_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   open.png
+¦   ¦   ¦   ¦   ¦       ¦   pages.html
+¦   ¦   ¦   ¦   ¦       ¦   plus.svg
+¦   ¦   ¦   ¦   ¦       ¦   plusd.svg
+¦   ¦   ¦   ¦   ¦       ¦   quick_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   quick_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   spaces.svg
+¦   ¦   ¦   ¦   ¦       ¦   splitbar.png
+¦   ¦   ¦   ¦   ¦       ¦   splitbard.png
+¦   ¦   ¦   ¦   ¦       ¦   struct_g_l_f_wallocator.html
+¦   ¦   ¦   ¦   ¦       ¦   struct_g_l_f_wgamepadstate.html
+¦   ¦   ¦   ¦   ¦       ¦   struct_g_l_f_wgammaramp.html
+¦   ¦   ¦   ¦   ¦       ¦   struct_g_l_f_wimage.html
+¦   ¦   ¦   ¦   ¦       ¦   struct_g_l_f_wvidmode.html
+¦   ¦   ¦   ¦   ¦       ¦   sync_off.png
+¦   ¦   ¦   ¦   ¦       ¦   sync_on.png
+¦   ¦   ¦   ¦   ¦       ¦   tabs.css
+¦   ¦   ¦   ¦   ¦       ¦   tab_a.png
+¦   ¦   ¦   ¦   ¦       ¦   tab_ad.png
+¦   ¦   ¦   ¦   ¦       ¦   tab_b.png
+¦   ¦   ¦   ¦   ¦       ¦   tab_bd.png
+¦   ¦   ¦   ¦   ¦       ¦   tab_h.png
+¦   ¦   ¦   ¦   ¦       ¦   tab_hd.png
+¦   ¦   ¦   ¦   ¦       ¦   tab_s.png
+¦   ¦   ¦   ¦   ¦       ¦   tab_sd.png
+¦   ¦   ¦   ¦   ¦       ¦   topics.html
+¦   ¦   ¦   ¦   ¦       ¦   vulkan_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   vulkan_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   window_8md.html
+¦   ¦   ¦   ¦   ¦       ¦   window_guide.html
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---search
+¦   ¦   ¦   ¦   ¦               all_0.js
+¦   ¦   ¦   ¦   ¦               all_1.js
+¦   ¦   ¦   ¦   ¦               all_10.js
+¦   ¦   ¦   ¦   ¦               all_11.js
+¦   ¦   ¦   ¦   ¦               all_12.js
+¦   ¦   ¦   ¦   ¦               all_13.js
+¦   ¦   ¦   ¦   ¦               all_14.js
+¦   ¦   ¦   ¦   ¦               all_15.js
+¦   ¦   ¦   ¦   ¦               all_16.js
+¦   ¦   ¦   ¦   ¦               all_17.js
+¦   ¦   ¦   ¦   ¦               all_18.js
+¦   ¦   ¦   ¦   ¦               all_19.js
+¦   ¦   ¦   ¦   ¦               all_1a.js
+¦   ¦   ¦   ¦   ¦               all_1b.js
+¦   ¦   ¦   ¦   ¦               all_2.js
+¦   ¦   ¦   ¦   ¦               all_3.js
+¦   ¦   ¦   ¦   ¦               all_4.js
+¦   ¦   ¦   ¦   ¦               all_5.js
+¦   ¦   ¦   ¦   ¦               all_6.js
+¦   ¦   ¦   ¦   ¦               all_7.js
+¦   ¦   ¦   ¦   ¦               all_8.js
+¦   ¦   ¦   ¦   ¦               all_9.js
+¦   ¦   ¦   ¦   ¦               all_a.js
+¦   ¦   ¦   ¦   ¦               all_b.js
+¦   ¦   ¦   ¦   ¦               all_c.js
+¦   ¦   ¦   ¦   ¦               all_d.js
+¦   ¦   ¦   ¦   ¦               all_e.js
+¦   ¦   ¦   ¦   ¦               all_f.js
+¦   ¦   ¦   ¦   ¦               classes_0.js
+¦   ¦   ¦   ¦   ¦               close.svg
+¦   ¦   ¦   ¦   ¦               defines_0.js
+¦   ¦   ¦   ¦   ¦               files_0.js
+¦   ¦   ¦   ¦   ¦               files_1.js
+¦   ¦   ¦   ¦   ¦               files_2.js
+¦   ¦   ¦   ¦   ¦               files_3.js
+¦   ¦   ¦   ¦   ¦               files_4.js
+¦   ¦   ¦   ¦   ¦               files_5.js
+¦   ¦   ¦   ¦   ¦               files_6.js
+¦   ¦   ¦   ¦   ¦               files_7.js
+¦   ¦   ¦   ¦   ¦               files_8.js
+¦   ¦   ¦   ¦   ¦               functions_0.js
+¦   ¦   ¦   ¦   ¦               groups_0.js
+¦   ¦   ¦   ¦   ¦               groups_1.js
+¦   ¦   ¦   ¦   ¦               groups_10.js
+¦   ¦   ¦   ¦   ¦               groups_2.js
+¦   ¦   ¦   ¦   ¦               groups_3.js
+¦   ¦   ¦   ¦   ¦               groups_4.js
+¦   ¦   ¦   ¦   ¦               groups_5.js
+¦   ¦   ¦   ¦   ¦               groups_6.js
+¦   ¦   ¦   ¦   ¦               groups_7.js
+¦   ¦   ¦   ¦   ¦               groups_8.js
+¦   ¦   ¦   ¦   ¦               groups_9.js
+¦   ¦   ¦   ¦   ¦               groups_a.js
+¦   ¦   ¦   ¦   ¦               groups_b.js
+¦   ¦   ¦   ¦   ¦               groups_c.js
+¦   ¦   ¦   ¦   ¦               groups_d.js
+¦   ¦   ¦   ¦   ¦               groups_e.js
+¦   ¦   ¦   ¦   ¦               groups_f.js
+¦   ¦   ¦   ¦   ¦               mag.svg
+¦   ¦   ¦   ¦   ¦               mag_d.svg
+¦   ¦   ¦   ¦   ¦               mag_sel.svg
+¦   ¦   ¦   ¦   ¦               mag_seld.svg
+¦   ¦   ¦   ¦   ¦               pages_0.js
+¦   ¦   ¦   ¦   ¦               pages_1.js
+¦   ¦   ¦   ¦   ¦               pages_10.js
+¦   ¦   ¦   ¦   ¦               pages_11.js
+¦   ¦   ¦   ¦   ¦               pages_2.js
+¦   ¦   ¦   ¦   ¦               pages_3.js
+¦   ¦   ¦   ¦   ¦               pages_4.js
+¦   ¦   ¦   ¦   ¦               pages_5.js
+¦   ¦   ¦   ¦   ¦               pages_6.js
+¦   ¦   ¦   ¦   ¦               pages_7.js
+¦   ¦   ¦   ¦   ¦               pages_8.js
+¦   ¦   ¦   ¦   ¦               pages_9.js
+¦   ¦   ¦   ¦   ¦               pages_a.js
+¦   ¦   ¦   ¦   ¦               pages_b.js
+¦   ¦   ¦   ¦   ¦               pages_c.js
+¦   ¦   ¦   ¦   ¦               pages_d.js
+¦   ¦   ¦   ¦   ¦               pages_e.js
+¦   ¦   ¦   ¦   ¦               pages_f.js
+¦   ¦   ¦   ¦   ¦               search.css
+¦   ¦   ¦   ¦   ¦               search.js
+¦   ¦   ¦   ¦   ¦               searchdata.js
+¦   ¦   ¦   ¦   ¦               typedefs_0.js
+¦   ¦   ¦   ¦   ¦               variables_0.js
+¦   ¦   ¦   ¦   ¦               variables_1.js
+¦   ¦   ¦   ¦   ¦               variables_2.js
+¦   ¦   ¦   ¦   ¦               variables_3.js
+¦   ¦   ¦   ¦   ¦               variables_4.js
+¦   ¦   ¦   ¦   ¦               variables_5.js
+¦   ¦   ¦   ¦   ¦               variables_6.js
+¦   ¦   ¦   ¦   ¦               variables_7.js
+¦   ¦   ¦   ¦   ¦               variables_8.js
+¦   ¦   ¦   ¦   ¦               variables_9.js
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---include
+¦   ¦   ¦   ¦   ¦   +---GLFW
+¦   ¦   ¦   ¦   ¦           glfw3.h
+¦   ¦   ¦   ¦   ¦           glfw3native.h
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---lib-mingw-w64
+¦   ¦   ¦   ¦   ¦       glfw3.dll
+¦   ¦   ¦   ¦   ¦       libglfw3.a
+¦   ¦   ¦   ¦   ¦       libglfw3dll.a
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---lib-static-ucrt
+¦   ¦   ¦   ¦   ¦       glfw3.dll
+¦   ¦   ¦   ¦   ¦       glfw3dll.lib
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---lib-vc2017
+¦   ¦   ¦   ¦   ¦       glfw3.dll
+¦   ¦   ¦   ¦   ¦       glfw3.lib
+¦   ¦   ¦   ¦   ¦       glfw3dll.lib
+¦   ¦   ¦   ¦   ¦       glfw3_mt.lib
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---lib-vc2019
+¦   ¦   ¦   ¦   ¦       glfw3.dll
+¦   ¦   ¦   ¦   ¦       glfw3.lib
+¦   ¦   ¦   ¦   ¦       glfw3dll.lib
+¦   ¦   ¦   ¦   ¦       glfw3_mt.lib
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---lib-vc2022
+¦   ¦   ¦   ¦   ¦       glfw3.dll
+¦   ¦   ¦   ¦   ¦       glfw3.lib
+¦   ¦   ¦   ¦   ¦       glfw3dll.lib
+¦   ¦   ¦   ¦   ¦       glfw3_mt.lib
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---lib-vc2026
+¦   ¦   ¦   ¦           glfw3.dll
+¦   ¦   ¦   ¦           glfw3.lib
+¦   ¦   ¦   ¦           glfw3dll.lib
+¦   ¦   ¦   ¦           glfw3_mt.lib
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---glm
+¦   ¦   ¦   ¦   +---glm
+¦   ¦   ¦   ¦       ¦   CMakeLists.txt
+¦   ¦   ¦   ¦       ¦   common.hpp
+¦   ¦   ¦   ¦       ¦   exponential.hpp
+¦   ¦   ¦   ¦       ¦   ext.hpp
+¦   ¦   ¦   ¦       ¦   fwd.hpp
+¦   ¦   ¦   ¦       ¦   geometric.hpp
+¦   ¦   ¦   ¦       ¦   glm.hpp
+¦   ¦   ¦   ¦       ¦   integer.hpp
+¦   ¦   ¦   ¦       ¦   mat2x2.hpp
+¦   ¦   ¦   ¦       ¦   mat2x3.hpp
+¦   ¦   ¦   ¦       ¦   mat2x4.hpp
+¦   ¦   ¦   ¦       ¦   mat3x2.hpp
+¦   ¦   ¦   ¦       ¦   mat3x3.hpp
+¦   ¦   ¦   ¦       ¦   mat3x4.hpp
+¦   ¦   ¦   ¦       ¦   mat4x2.hpp
+¦   ¦   ¦   ¦       ¦   mat4x3.hpp
+¦   ¦   ¦   ¦       ¦   mat4x4.hpp
+¦   ¦   ¦   ¦       ¦   matrix.hpp
+¦   ¦   ¦   ¦       ¦   packing.hpp
+¦   ¦   ¦   ¦       ¦   trigonometric.hpp
+¦   ¦   ¦   ¦       ¦   vec2.hpp
+¦   ¦   ¦   ¦       ¦   vec3.hpp
+¦   ¦   ¦   ¦       ¦   vec4.hpp
+¦   ¦   ¦   ¦       ¦   vector_relational.hpp
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---detail
+¦   ¦   ¦   ¦       ¦       compute_common.hpp
+¦   ¦   ¦   ¦       ¦       compute_vector_relational.hpp
+¦   ¦   ¦   ¦       ¦       func_common.inl
+¦   ¦   ¦   ¦       ¦       func_common_simd.inl
+¦   ¦   ¦   ¦       ¦       func_exponential.inl
+¦   ¦   ¦   ¦       ¦       func_exponential_simd.inl
+¦   ¦   ¦   ¦       ¦       func_geometric.inl
+¦   ¦   ¦   ¦       ¦       func_geometric_simd.inl
+¦   ¦   ¦   ¦       ¦       func_integer.inl
+¦   ¦   ¦   ¦       ¦       func_integer_simd.inl
+¦   ¦   ¦   ¦       ¦       func_matrix.inl
+¦   ¦   ¦   ¦       ¦       func_matrix_simd.inl
+¦   ¦   ¦   ¦       ¦       func_packing.inl
+¦   ¦   ¦   ¦       ¦       func_packing_simd.inl
+¦   ¦   ¦   ¦       ¦       func_trigonometric.inl
+¦   ¦   ¦   ¦       ¦       func_trigonometric_simd.inl
+¦   ¦   ¦   ¦       ¦       func_vector_relational.inl
+¦   ¦   ¦   ¦       ¦       func_vector_relational_simd.inl
+¦   ¦   ¦   ¦       ¦       glm.cpp
+¦   ¦   ¦   ¦       ¦       qualifier.hpp
+¦   ¦   ¦   ¦       ¦       setup.hpp
+¦   ¦   ¦   ¦       ¦       type_float.hpp
+¦   ¦   ¦   ¦       ¦       type_half.hpp
+¦   ¦   ¦   ¦       ¦       type_half.inl
+¦   ¦   ¦   ¦       ¦       type_mat2x2.hpp
+¦   ¦   ¦   ¦       ¦       type_mat2x2.inl
+¦   ¦   ¦   ¦       ¦       type_mat2x3.hpp
+¦   ¦   ¦   ¦       ¦       type_mat2x3.inl
+¦   ¦   ¦   ¦       ¦       type_mat2x4.hpp
+¦   ¦   ¦   ¦       ¦       type_mat2x4.inl
+¦   ¦   ¦   ¦       ¦       type_mat3x2.hpp
+¦   ¦   ¦   ¦       ¦       type_mat3x2.inl
+¦   ¦   ¦   ¦       ¦       type_mat3x3.hpp
+¦   ¦   ¦   ¦       ¦       type_mat3x3.inl
+¦   ¦   ¦   ¦       ¦       type_mat3x4.hpp
+¦   ¦   ¦   ¦       ¦       type_mat3x4.inl
+¦   ¦   ¦   ¦       ¦       type_mat4x2.hpp
+¦   ¦   ¦   ¦       ¦       type_mat4x2.inl
+¦   ¦   ¦   ¦       ¦       type_mat4x3.hpp
+¦   ¦   ¦   ¦       ¦       type_mat4x3.inl
+¦   ¦   ¦   ¦       ¦       type_mat4x4.hpp
+¦   ¦   ¦   ¦       ¦       type_mat4x4.inl
+¦   ¦   ¦   ¦       ¦       type_mat4x4_simd.inl
+¦   ¦   ¦   ¦       ¦       type_quat.hpp
+¦   ¦   ¦   ¦       ¦       type_quat.inl
+¦   ¦   ¦   ¦       ¦       type_quat_simd.inl
+¦   ¦   ¦   ¦       ¦       type_vec1.hpp
+¦   ¦   ¦   ¦       ¦       type_vec1.inl
+¦   ¦   ¦   ¦       ¦       type_vec2.hpp
+¦   ¦   ¦   ¦       ¦       type_vec2.inl
+¦   ¦   ¦   ¦       ¦       type_vec3.hpp
+¦   ¦   ¦   ¦       ¦       type_vec3.inl
+¦   ¦   ¦   ¦       ¦       type_vec4.hpp
+¦   ¦   ¦   ¦       ¦       type_vec4.inl
+¦   ¦   ¦   ¦       ¦       type_vec4_simd.inl
+¦   ¦   ¦   ¦       ¦       _features.hpp
+¦   ¦   ¦   ¦       ¦       _fixes.hpp
+¦   ¦   ¦   ¦       ¦       _noise.hpp
+¦   ¦   ¦   ¦       ¦       _swizzle.hpp
+¦   ¦   ¦   ¦       ¦       _swizzle_func.hpp
+¦   ¦   ¦   ¦       ¦       _vectorize.hpp
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---ext
+¦   ¦   ¦   ¦       ¦       matrix_clip_space.hpp
+¦   ¦   ¦   ¦       ¦       matrix_clip_space.inl
+¦   ¦   ¦   ¦       ¦       matrix_double2x2.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double2x2_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double2x3.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double2x3_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double2x4.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double2x4_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double3x2.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double3x2_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double3x3.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double3x3_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double3x4.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double3x4_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double4x2.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double4x2_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double4x3.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double4x3_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double4x4.hpp
+¦   ¦   ¦   ¦       ¦       matrix_double4x4_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float2x2.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float2x2_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float2x3.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float2x3_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float2x4.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float2x4_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float3x2.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float3x2_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float3x3.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float3x3_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float3x4.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float3x4_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float4x2.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float4x2_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float4x3.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float4x3_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float4x4.hpp
+¦   ¦   ¦   ¦       ¦       matrix_float4x4_precision.hpp
+¦   ¦   ¦   ¦       ¦       matrix_projection.hpp
+¦   ¦   ¦   ¦       ¦       matrix_projection.inl
+¦   ¦   ¦   ¦       ¦       matrix_relational.hpp
+¦   ¦   ¦   ¦       ¦       matrix_relational.inl
+¦   ¦   ¦   ¦       ¦       matrix_transform.hpp
+¦   ¦   ¦   ¦       ¦       matrix_transform.inl
+¦   ¦   ¦   ¦       ¦       quaternion_common.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_common.inl
+¦   ¦   ¦   ¦       ¦       quaternion_common_simd.inl
+¦   ¦   ¦   ¦       ¦       quaternion_double.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_double_precision.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_exponential.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_exponential.inl
+¦   ¦   ¦   ¦       ¦       quaternion_float.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_float_precision.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_geometric.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_geometric.inl
+¦   ¦   ¦   ¦       ¦       quaternion_relational.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_relational.inl
+¦   ¦   ¦   ¦       ¦       quaternion_transform.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_transform.inl
+¦   ¦   ¦   ¦       ¦       quaternion_trigonometric.hpp
+¦   ¦   ¦   ¦       ¦       quaternion_trigonometric.inl
+¦   ¦   ¦   ¦       ¦       scalar_common.hpp
+¦   ¦   ¦   ¦       ¦       scalar_common.inl
+¦   ¦   ¦   ¦       ¦       scalar_constants.hpp
+¦   ¦   ¦   ¦       ¦       scalar_constants.inl
+¦   ¦   ¦   ¦       ¦       scalar_int_sized.hpp
+¦   ¦   ¦   ¦       ¦       scalar_relational.hpp
+¦   ¦   ¦   ¦       ¦       scalar_relational.inl
+¦   ¦   ¦   ¦       ¦       scalar_uint_sized.hpp
+¦   ¦   ¦   ¦       ¦       scalar_ulp.hpp
+¦   ¦   ¦   ¦       ¦       scalar_ulp.inl
+¦   ¦   ¦   ¦       ¦       vector_bool1.hpp
+¦   ¦   ¦   ¦       ¦       vector_bool1_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_bool2.hpp
+¦   ¦   ¦   ¦       ¦       vector_bool2_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_bool3.hpp
+¦   ¦   ¦   ¦       ¦       vector_bool3_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_bool4.hpp
+¦   ¦   ¦   ¦       ¦       vector_bool4_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_common.hpp
+¦   ¦   ¦   ¦       ¦       vector_common.inl
+¦   ¦   ¦   ¦       ¦       vector_double1.hpp
+¦   ¦   ¦   ¦       ¦       vector_double1_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_double2.hpp
+¦   ¦   ¦   ¦       ¦       vector_double2_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_double3.hpp
+¦   ¦   ¦   ¦       ¦       vector_double3_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_double4.hpp
+¦   ¦   ¦   ¦       ¦       vector_double4_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_float1.hpp
+¦   ¦   ¦   ¦       ¦       vector_float1_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_float2.hpp
+¦   ¦   ¦   ¦       ¦       vector_float2_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_float3.hpp
+¦   ¦   ¦   ¦       ¦       vector_float3_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_float4.hpp
+¦   ¦   ¦   ¦       ¦       vector_float4_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_int1.hpp
+¦   ¦   ¦   ¦       ¦       vector_int1_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_int2.hpp
+¦   ¦   ¦   ¦       ¦       vector_int2_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_int3.hpp
+¦   ¦   ¦   ¦       ¦       vector_int3_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_int4.hpp
+¦   ¦   ¦   ¦       ¦       vector_int4_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_relational.hpp
+¦   ¦   ¦   ¦       ¦       vector_relational.inl
+¦   ¦   ¦   ¦       ¦       vector_uint1.hpp
+¦   ¦   ¦   ¦       ¦       vector_uint1_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_uint2.hpp
+¦   ¦   ¦   ¦       ¦       vector_uint2_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_uint3.hpp
+¦   ¦   ¦   ¦       ¦       vector_uint3_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_uint4.hpp
+¦   ¦   ¦   ¦       ¦       vector_uint4_precision.hpp
+¦   ¦   ¦   ¦       ¦       vector_ulp.hpp
+¦   ¦   ¦   ¦       ¦       vector_ulp.inl
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---gtc
+¦   ¦   ¦   ¦       ¦       bitfield.hpp
+¦   ¦   ¦   ¦       ¦       bitfield.inl
+¦   ¦   ¦   ¦       ¦       color_space.hpp
+¦   ¦   ¦   ¦       ¦       color_space.inl
+¦   ¦   ¦   ¦       ¦       constants.hpp
+¦   ¦   ¦   ¦       ¦       constants.inl
+¦   ¦   ¦   ¦       ¦       epsilon.hpp
+¦   ¦   ¦   ¦       ¦       epsilon.inl
+¦   ¦   ¦   ¦       ¦       integer.hpp
+¦   ¦   ¦   ¦       ¦       integer.inl
+¦   ¦   ¦   ¦       ¦       matrix_access.hpp
+¦   ¦   ¦   ¦       ¦       matrix_access.inl
+¦   ¦   ¦   ¦       ¦       matrix_integer.hpp
+¦   ¦   ¦   ¦       ¦       matrix_inverse.hpp
+¦   ¦   ¦   ¦       ¦       matrix_inverse.inl
+¦   ¦   ¦   ¦       ¦       matrix_transform.hpp
+¦   ¦   ¦   ¦       ¦       matrix_transform.inl
+¦   ¦   ¦   ¦       ¦       noise.hpp
+¦   ¦   ¦   ¦       ¦       noise.inl
+¦   ¦   ¦   ¦       ¦       packing.hpp
+¦   ¦   ¦   ¦       ¦       packing.inl
+¦   ¦   ¦   ¦       ¦       quaternion.hpp
+¦   ¦   ¦   ¦       ¦       quaternion.inl
+¦   ¦   ¦   ¦       ¦       quaternion_simd.inl
+¦   ¦   ¦   ¦       ¦       random.hpp
+¦   ¦   ¦   ¦       ¦       random.inl
+¦   ¦   ¦   ¦       ¦       reciprocal.hpp
+¦   ¦   ¦   ¦       ¦       reciprocal.inl
+¦   ¦   ¦   ¦       ¦       round.hpp
+¦   ¦   ¦   ¦       ¦       round.inl
+¦   ¦   ¦   ¦       ¦       type_aligned.hpp
+¦   ¦   ¦   ¦       ¦       type_precision.hpp
+¦   ¦   ¦   ¦       ¦       type_precision.inl
+¦   ¦   ¦   ¦       ¦       type_ptr.hpp
+¦   ¦   ¦   ¦       ¦       type_ptr.inl
+¦   ¦   ¦   ¦       ¦       ulp.hpp
+¦   ¦   ¦   ¦       ¦       ulp.inl
+¦   ¦   ¦   ¦       ¦       vec1.hpp
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---gtx
+¦   ¦   ¦   ¦       ¦       associated_min_max.hpp
+¦   ¦   ¦   ¦       ¦       associated_min_max.inl
+¦   ¦   ¦   ¦       ¦       bit.hpp
+¦   ¦   ¦   ¦       ¦       bit.inl
+¦   ¦   ¦   ¦       ¦       closest_point.hpp
+¦   ¦   ¦   ¦       ¦       closest_point.inl
+¦   ¦   ¦   ¦       ¦       color_encoding.hpp
+¦   ¦   ¦   ¦       ¦       color_encoding.inl
+¦   ¦   ¦   ¦       ¦       color_space.hpp
+¦   ¦   ¦   ¦       ¦       color_space.inl
+¦   ¦   ¦   ¦       ¦       color_space_YCoCg.hpp
+¦   ¦   ¦   ¦       ¦       color_space_YCoCg.inl
+¦   ¦   ¦   ¦       ¦       common.hpp
+¦   ¦   ¦   ¦       ¦       common.inl
+¦   ¦   ¦   ¦       ¦       compatibility.hpp
+¦   ¦   ¦   ¦       ¦       compatibility.inl
+¦   ¦   ¦   ¦       ¦       component_wise.hpp
+¦   ¦   ¦   ¦       ¦       component_wise.inl
+¦   ¦   ¦   ¦       ¦       dual_quaternion.hpp
+¦   ¦   ¦   ¦       ¦       dual_quaternion.inl
+¦   ¦   ¦   ¦       ¦       easing.hpp
+¦   ¦   ¦   ¦       ¦       easing.inl
+¦   ¦   ¦   ¦       ¦       euler_angles.hpp
+¦   ¦   ¦   ¦       ¦       euler_angles.inl
+¦   ¦   ¦   ¦       ¦       extend.hpp
+¦   ¦   ¦   ¦       ¦       extend.inl
+¦   ¦   ¦   ¦       ¦       extended_min_max.hpp
+¦   ¦   ¦   ¦       ¦       extended_min_max.inl
+¦   ¦   ¦   ¦       ¦       exterior_product.hpp
+¦   ¦   ¦   ¦       ¦       exterior_product.inl
+¦   ¦   ¦   ¦       ¦       fast_exponential.hpp
+¦   ¦   ¦   ¦       ¦       fast_exponential.inl
+¦   ¦   ¦   ¦       ¦       fast_square_root.hpp
+¦   ¦   ¦   ¦       ¦       fast_square_root.inl
+¦   ¦   ¦   ¦       ¦       fast_trigonometry.hpp
+¦   ¦   ¦   ¦       ¦       fast_trigonometry.inl
+¦   ¦   ¦   ¦       ¦       float_notmalize.inl
+¦   ¦   ¦   ¦       ¦       functions.hpp
+¦   ¦   ¦   ¦       ¦       functions.inl
+¦   ¦   ¦   ¦       ¦       gradient_paint.hpp
+¦   ¦   ¦   ¦       ¦       gradient_paint.inl
+¦   ¦   ¦   ¦       ¦       handed_coordinate_space.hpp
+¦   ¦   ¦   ¦       ¦       handed_coordinate_space.inl
+¦   ¦   ¦   ¦       ¦       hash.hpp
+¦   ¦   ¦   ¦       ¦       hash.inl
+¦   ¦   ¦   ¦       ¦       integer.hpp
+¦   ¦   ¦   ¦       ¦       integer.inl
+¦   ¦   ¦   ¦       ¦       intersect.hpp
+¦   ¦   ¦   ¦       ¦       intersect.inl
+¦   ¦   ¦   ¦       ¦       io.hpp
+¦   ¦   ¦   ¦       ¦       io.inl
+¦   ¦   ¦   ¦       ¦       log_base.hpp
+¦   ¦   ¦   ¦       ¦       log_base.inl
+¦   ¦   ¦   ¦       ¦       matrix_cross_product.hpp
+¦   ¦   ¦   ¦       ¦       matrix_cross_product.inl
+¦   ¦   ¦   ¦       ¦       matrix_decompose.hpp
+¦   ¦   ¦   ¦       ¦       matrix_decompose.inl
+¦   ¦   ¦   ¦       ¦       matrix_factorisation.hpp
+¦   ¦   ¦   ¦       ¦       matrix_factorisation.inl
+¦   ¦   ¦   ¦       ¦       matrix_interpolation.hpp
+¦   ¦   ¦   ¦       ¦       matrix_interpolation.inl
+¦   ¦   ¦   ¦       ¦       matrix_major_storage.hpp
+¦   ¦   ¦   ¦       ¦       matrix_major_storage.inl
+¦   ¦   ¦   ¦       ¦       matrix_operation.hpp
+¦   ¦   ¦   ¦       ¦       matrix_operation.inl
+¦   ¦   ¦   ¦       ¦       matrix_query.hpp
+¦   ¦   ¦   ¦       ¦       matrix_query.inl
+¦   ¦   ¦   ¦       ¦       matrix_transform_2d.hpp
+¦   ¦   ¦   ¦       ¦       matrix_transform_2d.inl
+¦   ¦   ¦   ¦       ¦       mixed_product.hpp
+¦   ¦   ¦   ¦       ¦       mixed_product.inl
+¦   ¦   ¦   ¦       ¦       norm.hpp
+¦   ¦   ¦   ¦       ¦       norm.inl
+¦   ¦   ¦   ¦       ¦       normal.hpp
+¦   ¦   ¦   ¦       ¦       normal.inl
+¦   ¦   ¦   ¦       ¦       normalize_dot.hpp
+¦   ¦   ¦   ¦       ¦       normalize_dot.inl
+¦   ¦   ¦   ¦       ¦       number_precision.hpp
+¦   ¦   ¦   ¦       ¦       number_precision.inl
+¦   ¦   ¦   ¦       ¦       optimum_pow.hpp
+¦   ¦   ¦   ¦       ¦       optimum_pow.inl
+¦   ¦   ¦   ¦       ¦       orthonormalize.hpp
+¦   ¦   ¦   ¦       ¦       orthonormalize.inl
+¦   ¦   ¦   ¦       ¦       perpendicular.hpp
+¦   ¦   ¦   ¦       ¦       perpendicular.inl
+¦   ¦   ¦   ¦       ¦       polar_coordinates.hpp
+¦   ¦   ¦   ¦       ¦       polar_coordinates.inl
+¦   ¦   ¦   ¦       ¦       projection.hpp
+¦   ¦   ¦   ¦       ¦       projection.inl
+¦   ¦   ¦   ¦       ¦       quaternion.hpp
+¦   ¦   ¦   ¦       ¦       quaternion.inl
+¦   ¦   ¦   ¦       ¦       range.hpp
+¦   ¦   ¦   ¦       ¦       raw_data.hpp
+¦   ¦   ¦   ¦       ¦       raw_data.inl
+¦   ¦   ¦   ¦       ¦       rotate_normalized_axis.hpp
+¦   ¦   ¦   ¦       ¦       rotate_normalized_axis.inl
+¦   ¦   ¦   ¦       ¦       rotate_vector.hpp
+¦   ¦   ¦   ¦       ¦       rotate_vector.inl
+¦   ¦   ¦   ¦       ¦       scalar_multiplication.hpp
+¦   ¦   ¦   ¦       ¦       scalar_relational.hpp
+¦   ¦   ¦   ¦       ¦       scalar_relational.inl
+¦   ¦   ¦   ¦       ¦       spline.hpp
+¦   ¦   ¦   ¦       ¦       spline.inl
+¦   ¦   ¦   ¦       ¦       std_based_type.hpp
+¦   ¦   ¦   ¦       ¦       std_based_type.inl
+¦   ¦   ¦   ¦       ¦       string_cast.hpp
+¦   ¦   ¦   ¦       ¦       string_cast.inl
+¦   ¦   ¦   ¦       ¦       texture.hpp
+¦   ¦   ¦   ¦       ¦       texture.inl
+¦   ¦   ¦   ¦       ¦       transform.hpp
+¦   ¦   ¦   ¦       ¦       transform.inl
+¦   ¦   ¦   ¦       ¦       transform2.hpp
+¦   ¦   ¦   ¦       ¦       transform2.inl
+¦   ¦   ¦   ¦       ¦       type_aligned.hpp
+¦   ¦   ¦   ¦       ¦       type_aligned.inl
+¦   ¦   ¦   ¦       ¦       type_trait.hpp
+¦   ¦   ¦   ¦       ¦       type_trait.inl
+¦   ¦   ¦   ¦       ¦       vector_angle.hpp
+¦   ¦   ¦   ¦       ¦       vector_angle.inl
+¦   ¦   ¦   ¦       ¦       vector_query.hpp
+¦   ¦   ¦   ¦       ¦       vector_query.inl
+¦   ¦   ¦   ¦       ¦       vec_swizzle.hpp
+¦   ¦   ¦   ¦       ¦       wrap.hpp
+¦   ¦   ¦   ¦       ¦       wrap.inl
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---simd
+¦   ¦   ¦   ¦               common.h
+¦   ¦   ¦   ¦               exponential.h
+¦   ¦   ¦   ¦               geometric.h
+¦   ¦   ¦   ¦               integer.h
+¦   ¦   ¦   ¦               matrix.h
+¦   ¦   ¦   ¦               packing.h
+¦   ¦   ¦   ¦               platform.h
+¦   ¦   ¦   ¦               trigonometric.h
+¦   ¦   ¦   ¦               vector_relational.h
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---SOIL2
+¦   ¦   ¦       +---lib
+¦   ¦   ¦               soil2-debug.lib
+¦   ¦   ¦               
+¦   ¦   +---images
+¦   ¦   ¦       checker_Tex.png
+¦   ¦   ¦       window.png
+¦   ¦   ¦       
+¦   ¦   +---Models
+¦   ¦   ¦       catto_texture.png
+¦   ¦   ¦       miGato.mtl
+¦   ¦   ¦       miGato.obj
+¦   ¦   ¦       RedDog.mtl
+¦   ¦   ¦       RedDog.obj
+¦   ¦   ¦       Texture_albedo.jpg
+¦   ¦   ¦       
+¦   ¦   +---Shader
+¦   ¦   ¦       core.frag
+¦   ¦   ¦       core.vs
+¦   ¦   ¦       lamp.frag
+¦   ¦   ¦       lamp.vs
+¦   ¦   ¦       modelLoading.frag
+¦   ¦   ¦       modelLoading.vs
+¦   ¦   ¦       
+¦   ¦   +---SOIL2
+¦   ¦   ¦       etc1_utils.c
+¦   ¦   ¦       etc1_utils.h
+¦   ¦   ¦       image_DXT.c
+¦   ¦   ¦       image_DXT.h
+¦   ¦   ¦       image_helper.c
+¦   ¦   ¦       image_helper.h
+¦   ¦   ¦       jo_jpeg.h
+¦   ¦   ¦       pkm_helper.h
+¦   ¦   ¦       pvr_helper.h
+¦   ¦   ¦       SOIL2.c
+¦   ¦   ¦       SOIL2.h
+¦   ¦   ¦       stbi_DDS.h
+¦   ¦   ¦       stbi_DDS_c.h
+¦   ¦   ¦       stbi_ext.h
+¦   ¦   ¦       stbi_ext_c.h
+¦   ¦   ¦       stbi_pkm.h
+¦   ¦   ¦       stbi_pkm_c.h
+¦   ¦   ¦       stbi_pvr.h
+¦   ¦   ¦       stbi_pvr_c.h
+¦   ¦   ¦       stb_image.h
+¦   ¦   ¦       stb_image_write.h
+¦   ¦   ¦       
+¦   ¦   +---x64
+¦   ¦       +---Debug
+¦   ¦           ¦   LabGrafica_SMJE.exe.recipe
+¦   ¦           ¦   LabGrafica_SMJE.log
+¦   ¦           ¦   Main.cpp.obj.dt.d.json
+¦   ¦           ¦   Main.cpp.obj.dt.module.json
+¦   ¦           ¦   Main.cpp.obj.dt.module.json.command
+¦   ¦           ¦   Main.obj
+¦   ¦           ¦   Mesh.h.obj.dt.d.json
+¦   ¦           ¦   Mesh.h.obj.dt.module.json
+¦   ¦           ¦   Mesh.h.obj.dt.module.json.command
+¦   ¦           ¦   Model.h.obj.dt.d.json
+¦   ¦           ¦   Model.h.obj.dt.module.json
+¦   ¦           ¦   Model.h.obj.dt.module.json.command
+¦   ¦           ¦   stb_image.cpp.obj.dt.d.json
+¦   ¦           ¦   stb_image.cpp.obj.dt.module.json
+¦   ¦           ¦   stb_image.cpp.obj.dt.module.json.command
+¦   ¦           ¦   stb_image.obj
+¦   ¦           ¦   Texturizado.cpp.obj.dt.d.json
+¦   ¦           ¦   Texturizado.cpp.obj.dt.module.json
+¦   ¦           ¦   Texturizado.cpp.obj.dt.module.json.command
+¦   ¦           ¦   Texturizado.obj
+¦   ¦           ¦   vc143.idb
+¦   ¦           ¦   vc143.pdb
+¦   ¦           ¦   
+¦   ¦           +---LabGrafica_SMJE.tlog
+¦   ¦                   CL.command.1.tlog
+¦   ¦                   Cl.items.tlog
+¦   ¦                   CL.read.1.tlog
+¦   ¦                   CL.write.1.tlog
+¦   ¦                   LabGrafica_SMJE.lastbuildstate
+¦   ¦                   link-cvtres.read.1.tlog
+¦   ¦                   link-cvtres.write.1.tlog
+¦   ¦                   link-rc.read.1.tlog
+¦   ¦                   link-rc.write.1.tlog
+¦   ¦                   link.command.1.tlog
+¦   ¦                   link.read.1.tlog
+¦   ¦                   link.read.2.tlog
+¦   ¦                   link.read.3.tlog
+¦   ¦                   link.read.4.tlog
+¦   ¦                   link.read.5.tlog
+¦   ¦                   link.secondary.1.tlog
+¦   ¦                   link.write.1.tlog
+¦   ¦                   unsuccessfulbuild
+¦   ¦                   
+¦   +---x64
+¦       +---Debug
+¦               LabGrafica_SMJE.pdb
+¦               
++---librerias
+¦       Librerias.txt
+¦       
++---modelos
+¦       area_gradas_completo.blend
+¦       area_gradas_completo.blend1
+¦       area_gradas_completo.mtl
+¦       area_gradas_completo.obj
+¦       estadio.mtl
+¦       estadio.obj
+¦       gradas_tuneles.blend
+¦       luces_techo.blend
+¦       modelos.txt
+¦       palcos.blend
+¦       palcos.blend1
+¦       pasamanos.blend
+¦       pasamanos.blend1
+¦       puertas_tuneles.blend
+¦       silla_stands.blend
+¦       silla_stands.blend1
+¦       techo_grados.blend
+¦       techo_grados.blend1
+¦       
++---texturas
+        texturas.txt
+        
